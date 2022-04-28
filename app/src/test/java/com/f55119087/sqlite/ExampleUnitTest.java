@@ -1,4 +1,4 @@
-package com.f55119104.sqlite;
+package com.f55119087.sqlite;
 
 import org.junit.Test;
 

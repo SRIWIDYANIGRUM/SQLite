@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.f55119104.sqlite">
+    package="com.f55119087.sqlite">
 
     <application
         android:allowBackup="true"
@@ -10,13 +10,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SQLite">
         <activity
-            android:name="com.f55119104.sqlite.RegisterActivity"
+            android:name="com.f55119087.sqlite.RegisterActivity"
             android:exported="false" />
         <activity
-            android:name="com.f55119104.sqlite.ContentActivity"
+            android:name="com.f55119087.sqlite.ContentActivity"
             android:exported="false" />
         <activity
-            android:name="com.f55119104.sqlite.MainActivity"
+            android:name="com.f55119087.sqlite.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

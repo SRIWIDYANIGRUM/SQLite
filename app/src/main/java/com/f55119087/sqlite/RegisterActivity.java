@@ -1,4 +1,4 @@
-package com.f55119104.sqlite;
+package com.f55119087.sqlite;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -6,7 +6,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.widget.Toast;
 
-import com.f55119104.sqlite.databinding.ActivityRegisterBinding;
+import com.f55119087.sqlite.databinding.ActivityRegisterBinding;
 
 import utils.DatabaseHelper;
 

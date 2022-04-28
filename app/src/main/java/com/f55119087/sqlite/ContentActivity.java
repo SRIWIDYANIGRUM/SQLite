@@ -1,4 +1,4 @@
-package com.f55119104.sqlite;
+package com.f55119087.sqlite;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -7,7 +7,7 @@ import androidx.fragment.app.Fragment;
 import android.os.Bundle;
 import android.view.MenuItem;
 
-import com.f55119104.sqlite.databinding.ActivityContentBinding;
+import com.f55119087.sqlite.databinding.ActivityContentBinding;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 public class ContentActivity extends AppCompatActivity {

@@ -1,4 +1,4 @@
-package com.f55119104.sqlite;
+package com.f55119087.sqlite;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.f55119104.sqlite", appContext.getPackageName());
+        assertEquals("com.f55119087.sqlite", appContext.getPackageName());
     }
 }
